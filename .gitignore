@@ -1,0 +1,10 @@
+.cph/
+
+exe/
+
+files/
+
+*.cpp
+
+run2.ps1
+

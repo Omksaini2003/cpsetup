@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"array": "cpp",
+			"bitset": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"utility": "cpp",
+			"valarray": "cpp",
+			"ostream": "cpp",
+			"cstdlib": "cpp",
+			"functional": "cpp",
+			"numeric": "cpp",
+			"vector": "cpp",
+			"random": "cpp"
+		}
+	}
+}
