@@ -1,10 +1,10 @@
+# Ignore directories
 .cph/
-
 exe/
-
 files/
 
+# Ignore all .cpp files
 *.cpp
 
+# Ignore a specific file
 run2.ps1
-
